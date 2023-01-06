@@ -1,12 +1,11 @@
-# verou-4-the-field-challenge
+
 
 <a href="#simple-interface-20">Simple interface 20</a>
 
 (#simple-interface-20)
 
 ## Simple interface 20
-Link: <simple-interface-20/index.html>
-<a href="./simple-interface-20/" target="_blank">
+<a href="./simple-interface-20/" target="_blank">Link exercise</a>
 
 ___
 
@@ -28,4 +27,8 @@ Added some styling
 ___
 
 Tried to add links to the README file
+
+___
+
+Created public accessible githubpage: <a href="https://becodeorg.github.io/verou-4-the-fiield-challenge-SSLTC/">the field challenge</a>
 
