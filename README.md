@@ -46,4 +46,9 @@ Made new folder with index.html including the elements. Add style.scss with some
 
 ___
 
-Trying to style
+One div for the text and one for the image with display propertie set to tablecell and vertical align to middle.
+Both inside the parent div with display propertie set to table.
+
+___
+
+It is as good as it can be. Not bad, not perfect.
