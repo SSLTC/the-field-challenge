@@ -2,34 +2,39 @@
 body {
   background-color: rgb(242, 240, 236);
   font-family: "Open Sans", sans-serif;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 body .box {
   width: 350px;
   border-radius: 25px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   background-color: #faf9f9;
-  padding: 15px;
-  padding-left: 25px;
-  margin-top: 25px;
-  vertical-align: text-top;
+  padding: 15px 0px 15px 25px;
+  display: table;
 }
 body .box .box-text {
-  display: inline-block;
   width: 60%;
+  display: table-cell;
+  vertical-align: middle;
 }
 body .box .box-text h1 {
-  font-size: 0.7rem;
+  font-size: 0.4rem;
   color: #808080;
 }
 body .box .box-text p {
   margin-top: 0px;
-  font-size: 1rem;
+  margin-bottom: 0px;
+  font-size: 0.7rem;
   font-weight: bolder;
 }
 body .box .box-image {
-  display: inline-block;
+  display: table-cell;
 }
 body .box .box-image img {
   height: 80px;
   border-radius: 10px;
+  vertical-align: middle;
 }/*# sourceMappingURL=style.css.map */
