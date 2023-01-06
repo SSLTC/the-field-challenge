@@ -1,6 +1,6 @@
 
 
-<a href="#simple-interface-20">Simple interface 20</a>
+<a href="#simple-interface-20">Simple interface 20</a><br>
 <a href="#simple-interface-01">Simple interface 01</a>
 
 (#simple-interface-20)
@@ -46,3 +46,4 @@ Made new folder with index.html including the elements. Add style.scss with some
 
 ___
 
+Trying to style
