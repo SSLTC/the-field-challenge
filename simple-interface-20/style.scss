@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@1,400;1,800&display=swap');
+
+body{
+    text-align: center;
+    font-family: 'Public Sans', sans-serif;
+    font-style: italic;
+    color: #595959;
+
+    h1{
+        margin-bottom: 0px;
+        font-size: 1.5rem;
+        font-weight: lighter;
+        color: #50939f;
+    }
+
+    hr{
+        border: dashed;
+        border-color: #d3d3d3;
+        border-width: 1px;
+    }
+
+    section p{
+        line-height: 3rem;
+        span{
+            font-size: 1.5rem;
+            font-weight: bold;
+            color: #50939f;
+        }
+    }
+}
