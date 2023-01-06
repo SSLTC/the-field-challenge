@@ -33,6 +33,14 @@ ___
 
 Created public accessible githubpage: <a href="https://becodeorg.github.io/verou-4-the-fiield-challenge-SSLTC/">the field challenge</a>
 
+___
+
+Did some corrections so it looks more like the example. 
+
+- font-size
+- margin
+- font-color with variable
+
 ____
 
 (#simple-interface-01)
